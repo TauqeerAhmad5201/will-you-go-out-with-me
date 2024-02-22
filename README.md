@@ -20,14 +20,6 @@
 
 3. Interact with the buttons and experience the playful decision-making process!
 
-## Demo
+## Contribution
 
-https://hallowshaw.github.io/Will-you-go-out-with-me/
-
-## Contributing 
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests to enhance the project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+You make a PR to contribute in this repo. Chill and Pill. 
